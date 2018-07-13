@@ -13,6 +13,6 @@ public class Code_1000 {
 		int a = input.nextInt();
 		int b = input.nextInt();
 		
-		System.out.println("A+B = "+(a+b));
+		System.out.println(a+b);
 	}
 }

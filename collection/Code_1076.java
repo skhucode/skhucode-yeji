@@ -34,19 +34,20 @@ public class Code_1076 {
 		for(int i=0; i<3; ++i) {
 			list.add(input.nextLine());
 		}
-		
 		String a = "";
 		
+	//	long value = 0;
 		for(int i=0; i<list.size()-1; ++i) {
 			//System.out.print(map.get(list.get(i)));
 			a += map.get(list.get(i));
+			// value = map.get(list.get(i))*10 + map.get(list.get(i));
 		}
 		
-		int x = map.get(list.get(2));
+		long x = map.get(list.get(2));
 		for(int i=0; i<x; ++i) {
-			//System.out.print("0");
-			a += "0";
+			a+="0";
+			//value *= 10;
 		}
-		System.out.println(Integer.parseInt(a));
+		System.out.println(Long.parseLong(a));
 	}
 }
