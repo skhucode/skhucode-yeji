@@ -20,31 +20,29 @@ public class Code_1764 {
 		
 		ArrayList<String> list = new ArrayList<String>();
 		
-		int hear = Integer.parseInt(a[0]);
-		int see = Integer.parseInt(a[1]);
+		int hear = Integer.parseInt(a[0]);//듣도 못한 사람의 수 
+		int see = Integer.parseInt(a[1]);//보도 못한 사람의 수 
 		
-		Map<String, String> map = new HashMap<String,String>();
+		Map<String, Integer> map = new HashMap<String,Integer>();
+		
 		
 		for(int i=1; i<=(hear+see); ++i) {
-			if(i<=hear) {
-				map.put(input.nextLine(), "hear");
-			}
-			else if(i>=hear+2) {
-				String name = input.nextLine();
-				if(map.containsKey(name))
-					list.add(name);
+			String name = input.nextLine();
+
+			
+			if(map.containsKey(name)) {
+				list.add(name);
 			}
 			else {
-				String n = input.nextLine();
+				map.put(name, 0);
 			}
 		}
 		
+		Collections.sort(list);
 		System.out.println(list.size());
 		
-		Collections.sort(list);
-		
-		for(String t : list)
-			System.out.println(t);
+		for(String ss : list)
+			System.out.println(ss);
 	}
 
 }

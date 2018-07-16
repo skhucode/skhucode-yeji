@@ -1,7 +1,7 @@
 package collection;
 
 import java.util.ArrayDeque;
-import java.util.Queue;
+import java.util.Deque;
 import java.util.Scanner;
 
 /*
@@ -14,7 +14,7 @@ public class Code_10845 {
 		// TODO Auto-generated method stub
 Scanner input = new Scanner (System.in);
 		
-		Queue<Integer> q = new ArrayDeque<Integer>();
+		Deque<Integer> q = new ArrayDeque<Integer>();
 		
 		int num = input.nextInt();
 		
@@ -52,15 +52,15 @@ Scanner input = new Scanner (System.in);
 					System.out.println(q.peek());
 				}
 			}
-			/*
+			
 			else if(arr[0].equals("back")) {
 				if(q.isEmpty()) {
 					System.out.println("-1");
 				}else {
-					System.out.println(q.);
+					System.out.println(q.peekLast());
 				}
 			}
-			*/
+			
 		}
 	}
 
