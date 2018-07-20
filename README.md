@@ -29,8 +29,8 @@
 * Baekjoon 2750 [수 정렬하기](https://github.com/skhucode/skhucode-yeji/blob/master/collection/Code_2750.java)
 * Baekjoon 7785 [회사에 있는 사람](https://github.com/skhucode/skhucode-yeji/blob/master/collection/Code_7785.java)
 ## Sort
-* Baekjoon 11650 [좌표 정렬하기(Comparable)](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_11650_Comparable.java)
-                 [좌표 정렬하기(Comparator)](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_11650_Comparator.java)
+* Baekjoon 11650 [좌표 정렬하기Comparable](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_11650_Comparable.java)
+                 [/ Comparator](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_11650_Comparator.java)
 * Baekjoon 11651 [좌표 정렬하기2](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_11651.java)
 ## BigInteger
 * Baekjoon 10757 [큰 수 A+B](https://github.com/skhucode/skhucode-yeji/blob/master/bigInteger/Code_10757.java)
