@@ -18,6 +18,13 @@
 * Baekjoon 11720 [숫자의 합](https://github.com/skhucode/skhucode-yeji/blob/master/io/Code_11720.java)
 * Baekjoon 11721 [열 개씩 끊어 출력하기](https://github.com/skhucode/skhucode-yeji/blob/master/io/Code_11721.java)
 * Baekjoon 2741 [N](https://github.com/skhucode/skhucode-yeji/blob/master/io/Code_2741.java)
+* Baekjoon 10818 [최소, 최대](https://github.com/skhucode/skhucode-yeji/blob/master/io/Code_10818.java)
+* Baekjoon 1924 [2007년](https://github.com/skhucode/skhucode-yeji/blob/master/io/Code_1924.java)
+* Baekjoon 2438 [별찍기 - 1](https://github.com/skhucode/skhucode-yeji/blob/master/io/Code_2438.java)
+* Baekjoon 2739 [구구단](https://github.com/skhucode/skhucode-yeji/blob/master/io/Code_2739.java)
+* Baekjoon 2742 [찍기 N](https://github.com/skhucode/skhucode-yeji/blob/master/io/Code_2742.java)
+* Baekjoon 8393 [sum](https://github.com/skhucode/skhucode-yeji/blob/master/io/Code_8393.java)
+
 ## Collection
 * Baekjoon 1076 [저항](https://github.com/skhucode/skhucode-yeji/blob/master/collection/Code_1076.java)
 * Baekjoon 10815 [숫자 카드](https://github.com/skhucode/skhucode-yeji/blob/master/collection/Code_10815.java)
