@@ -51,7 +51,7 @@
 * Baekjoon 11650 [좌표 정렬하기Comparable](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_11650_Comparable.java)
                  [/ Comparator](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_11650_Comparator.java)
 * Baekjoon 11651 [좌표 정렬하기2](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_11651.java)
-##Stack
+## Stack
 * Baekjoon 10799 [쇠막대기](https://github.com/skhucode/skhucode-yeji/blob/master/stack/Code_10799.java)
 * Baekjoon 1406 [에디터](https://github.com/skhucode/skhucode-yeji/blob/master/stack/Code_1406.java)
 * Baekjoon 9012 [괄호](https://github.com/skhucode/skhucode-yeji/blob/master/stack/Code_9012.java)
