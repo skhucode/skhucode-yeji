@@ -1,4 +1,6 @@
 # skhucode-yeji
+## 같이 풀어보고싶은 문제
+* Baekjoon 9012 [괄호](https://github.com/skhucode/skhucode-yeji/blob/master/stack/Code_9012.java)
 
 ## I/O
 * Baekjoon 2557 [Hello World](https://github.com/skhucode/skhucode-yeji/blob/master/io/Code_2557.java)
@@ -35,8 +37,6 @@
 * Baekjoon 10991 [별찍기 - 16](https://github.com/skhucode/skhucode-yeji/blob/master/io/Code_10991.java)
 * Baekjoon 10992 [별찍기 - 17](https://github.com/skhucode/skhucode-yeji/blob/master/io/Code_10992.java)
 
-
-
 ## Collection
 * Baekjoon 1076 [저항](https://github.com/skhucode/skhucode-yeji/blob/master/collection/Code_1076.java)
 * Baekjoon 10815 [숫자 카드](https://github.com/skhucode/skhucode-yeji/blob/master/collection/Code_10815.java)
@@ -51,6 +51,10 @@
 * Baekjoon 11650 [좌표 정렬하기Comparable](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_11650_Comparable.java)
                  [/ Comparator](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_11650_Comparator.java)
 * Baekjoon 11651 [좌표 정렬하기2](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_11651.java)
+##Stack
+* Baekjoon 10799 [쇠막대기](https://github.com/skhucode/skhucode-yeji/blob/master/stack/Code_10799.java)
+* Baekjoon 1406 [에디터](https://github.com/skhucode/skhucode-yeji/blob/master/stack/Code_1406.java)
+* Baekjoon 9012 [괄호](https://github.com/skhucode/skhucode-yeji/blob/master/stack/Code_9012.java)
 ## BigInteger
 * Baekjoon 10757 [큰 수 A+B](https://github.com/skhucode/skhucode-yeji/blob/master/bigInteger/Code_10757.java)
 * Baekjoon 10826 [피보나치 수4](https://github.com/skhucode/skhucode-yeji/blob/master/bigInteger/Code_10826.java)
