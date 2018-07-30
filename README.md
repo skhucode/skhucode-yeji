@@ -55,7 +55,19 @@
 * Baekjoon 10799 [쇠막대기](https://github.com/skhucode/skhucode-yeji/blob/master/stack/Code_10799.java)
 * Baekjoon 1406 [에디터](https://github.com/skhucode/skhucode-yeji/blob/master/stack/Code_1406.java)
 * Baekjoon 9012 [괄호](https://github.com/skhucode/skhucode-yeji/blob/master/stack/Code_9012.java)
+##Deque
+* Baekjoon 10866 [deque](https://github.com/skhucode/skhucode-yeji/blob/master/deque/Code_10866.java)
 ## BigInteger
 * Baekjoon 10757 [큰 수 A+B](https://github.com/skhucode/skhucode-yeji/blob/master/bigInteger/Code_10757.java)
 * Baekjoon 10826 [피보나치 수4](https://github.com/skhucode/skhucode-yeji/blob/master/bigInteger/Code_10826.java)
 * Baekjoon 10827 [a^b](https://github.com/skhucode/skhucode-yeji/blob/master/bigInteger/Code_10827.java)
+##String
+* Baekjoon 10808 [알파벳 개수](https://github.com/skhucode/skhucode-yeji/blob/master/string/Code_10808.java)
+* Baekjoon 10809 [알파벳 찾기](https://github.com/skhucode/skhucode-yeji/blob/master/string/Code_10809.java)
+* Baekjoon 10820 [문자열 분석](https://github.com/skhucode/skhucode-yeji/blob/master/string/Code_10820.java)
+* Baekjoon 11655 [ROT13](https://github.com/skhucode/skhucode-yeji/blob/master/string/Code_11655.java)
+* Baekjoon 11656 [접미사 배열](https://github.com/skhucode/skhucode-yeji/blob/master/string/Code_11656.java)
+* Baekjoon 2743 [단어 길이 재기](https://github.com/skhucode/skhucode-yeji/blob/master/string/Code_2743.java)
+
+
+
