@@ -55,6 +55,8 @@
 * Baekjoon 10799 [쇠막대기](https://github.com/skhucode/skhucode-yeji/blob/master/stack/Code_10799.java)
 * Baekjoon 1406 [에디터](https://github.com/skhucode/skhucode-yeji/blob/master/stack/Code_1406.java)
 * Baekjoon 9012 [괄호](https://github.com/skhucode/skhucode-yeji/blob/master/stack/Code_9012.java)
+## Queue
+* Baekjoon 1158 [조세퍼스 문제](https://github.com/skhucode/skhucode-yeji/blob/master/queue/Code_1158.java)
 ## Deque
 * Baekjoon 10866 [deque](https://github.com/skhucode/skhucode-yeji/blob/master/deque/Code_10866.java)
 ## BigInteger
