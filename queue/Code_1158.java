@@ -36,7 +36,7 @@ public class Code_1158 {
 		}	
 		j.add(String.valueOf(q.poll()));
 		
-		/* while문 사용시 틀렸다고 나옴.
+		/* while문 사용시 틀렸다고 나옴. >> 이유 : poll횟수를 내가 지정해줬기 때문에
 		while(!q.isEmpty()) { 
 			q.add(q.poll());
 			q.add(q.poll());
