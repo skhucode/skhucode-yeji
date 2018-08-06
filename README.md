@@ -1,6 +1,4 @@
 # skhucode-yeji
-## 같이 풀어보고싶은 문제
-* Baekjoon 9012 [괄호](https://github.com/skhucode/skhucode-yeji/blob/master/stack/Code_9012.java)
 
 ## I/O
 * Baekjoon 2557 [Hello World](https://github.com/skhucode/skhucode-yeji/blob/master/io/Code_2557.java)
