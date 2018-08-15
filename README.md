@@ -88,3 +88,10 @@
 * Baekjoon 1699 [제곱수의 합](https://github.com/skhucode/skhucode-yeji/blob/master/dynamicProgramming/Code_1699.java)
 * Baekjoon 2225 [합분해](https://github.com/skhucode/skhucode-yeji/blob/master/dynamicProgramming/Code_2225.java)
 * Baekjoon 9461 [파도반 수열](https://github.com/skhucode/skhucode-yeji/blob/master/dynamicProgramming/Code_9461.java)
+
+## Math
+* Baekjoon 10430 [나머지](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_10430.java)
+* Baekjoon 11005 [진법 변환2](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_11005.java)
+* Baekjoon 1934 [최소공배수](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_1934.java)
+* Baekjoon 2609 [최대공약수와 최소공배수](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_2609.java)
+* Baekjoon 9613 [GCD합](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_9613.java)
