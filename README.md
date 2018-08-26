@@ -52,6 +52,11 @@
 * Baekjoon 10814 [나이순 정렬](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_10814.java)
 * Baekjoon 10825 [국영수](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_10825.java)
 * Baekjoon 2751 [수 정렬하기2](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_2751.java)
+* Baekjoon 10989 수 정렬하기3
+* Baekjoon 11652 카드
+* Baekjoon 11004 K번째 수
+* Baekjoon 1377 버블 소트
+
 ## Stack
 * Baekjoon 10799 [쇠막대기](https://github.com/skhucode/skhucode-yeji/blob/master/stack/Code_10799.java)
 * Baekjoon 1406 [에디터](https://github.com/skhucode/skhucode-yeji/blob/master/stack/Code_1406.java)
@@ -91,6 +96,7 @@
 * Baekjoon 1699 [제곱수의 합](https://github.com/skhucode/skhucode-yeji/blob/master/dynamicProgramming/Code_1699.java)
 * Baekjoon 2225 [합분해](https://github.com/skhucode/skhucode-yeji/blob/master/dynamicProgramming/Code_2225.java)
 * Baekjoon 9461 [파도반 수열](https://github.com/skhucode/skhucode-yeji/blob/master/dynamicProgramming/Code_9461.java)
+* Baekjoon 2011 암호코드
 
 ## Math
 * Baekjoon 10430 [나머지](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_10430.java)
@@ -108,4 +114,5 @@
 * Baekjoon 2004 [조합 0의 개수](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_2004.java)
 * Baekjoon 6588 [진법 변환](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_2745.java)
 * Baekjoon 9613 [골드바흐의 추측](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_6588.java)
-
+* Baekjoon 2089 -2진수
+* Baekjoon 11576 Base conversion
