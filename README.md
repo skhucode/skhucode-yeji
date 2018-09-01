@@ -101,6 +101,7 @@
 
 ## Math
 * Baekjoon 10430 [나머지](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_10430.java)
+* Baekjoon 6588 [진법 변환](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_2745.java)
 * Baekjoon 11005 [진법 변환2](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_11005.java)
 * Baekjoon 1934 [최소공배수](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_1934.java)
 * Baekjoon 2609 [최대공약수와 최소공배수](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_2609.java)
@@ -113,7 +114,6 @@
 * Baekjoon 1929 [소수 구하기](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_1929.java)
 * Baekjoon 1978 [소수 찾기](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_1978.java)
 * Baekjoon 2004 [조합 0의 개수](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_2004.java)
-* Baekjoon 6588 [진법 변환](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_2745.java)
 * Baekjoon 9613 [골드바흐의 추측](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_6588.java)
 * Baekjoon 2089 -2진수
 * Baekjoon 11576 Base conversion
