@@ -117,3 +117,12 @@
 * Baekjoon 9613 [골드바흐의 추측](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_6588.java)
 * Baekjoon 2089 -2진수
 * Baekjoon 11576 Base conversion
+
+## Graph
+* Baekjoon 9466 텀 프로젝트
+* Baekjoon 2178 미로 탐색
+* Baekjoon 7576 토마토
+* Baekjoon 2146 다리 만들기
+
+## Tree
+* Baekjoon 1967 트리의 지름
