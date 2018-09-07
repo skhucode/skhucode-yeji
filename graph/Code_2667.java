@@ -1,5 +1,8 @@
 package graph;
-
+/*
+ * 작성일 : 2018년 09월 02일
+ * 내 용 : 단지번호붙이기
+ */
 import java.util.Arrays;
 import java.util.Scanner;
 
