@@ -127,7 +127,7 @@
 * Baekjoon 2667 [단지번호붙이기](https://github.com/skhucode/skhucode-yeji/blob/master/graph/Code_2667.java)
 * Baekjoon 4963 [섬의개수](https://github.com/skhucode/skhucode-yeji/blob/master/graph/Code_4963.java)
 * Baekjoon 9466 텀 프로젝트
-* Baekjoon 2178 미로 탐색
+* Baekjoon 2178 [미로 탐색](https://github.com/skhucode/skhucode-yeji/blob/master/graph/Code_2178.java)
 * Baekjoon 7576 토마토
 * Baekjoon 2146 다리 만들기
 
