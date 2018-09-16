@@ -49,6 +49,14 @@
 * Baekjoon 11650 [좌표 정렬하기Comparable](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_11650_Comparable.java)
                  [/ Comparator](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_11650_Comparator.java)
 * Baekjoon 11651 [좌표 정렬하기2](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_11651.java)
+* Baekjoon 10814 [나이순 정렬](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_10814.java)
+* Baekjoon 10825 [국영수](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_10825.java)
+* Baekjoon 2751 [수 정렬하기2](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_2751.java)
+* Baekjoon 10989 [수 정렬하기3](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_10989.java)
+* Baekjoon 11652 [카드](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_11652.java)
+* Baekjoon 11004 [K번째 수](https://github.com/skhucode/skhucode-yeji/blob/master/sort/Code_11004.java)
+* Baekjoon 1377 버블 소트
+
 ## Stack
 * Baekjoon 10799 [쇠막대기](https://github.com/skhucode/skhucode-yeji/blob/master/stack/Code_10799.java)
 * Baekjoon 1406 [에디터](https://github.com/skhucode/skhucode-yeji/blob/master/stack/Code_1406.java)
@@ -88,10 +96,42 @@
 * Baekjoon 1699 [제곱수의 합](https://github.com/skhucode/skhucode-yeji/blob/master/dynamicProgramming/Code_1699.java)
 * Baekjoon 2225 [합분해](https://github.com/skhucode/skhucode-yeji/blob/master/dynamicProgramming/Code_2225.java)
 * Baekjoon 9461 [파도반 수열](https://github.com/skhucode/skhucode-yeji/blob/master/dynamicProgramming/Code_9461.java)
+* Baekjoon 2011 [암호코드](https://github.com/skhucode/skhucode-yeji/blob/master/dynamicProgramming/Code_2011.java)
+* Baekjoon 2133 타일채우기
 
 ## Math
 * Baekjoon 10430 [나머지](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_10430.java)
+* Baekjoon 6588 [진법 변환](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_2745.java)
 * Baekjoon 11005 [진법 변환2](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_11005.java)
 * Baekjoon 1934 [최소공배수](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_1934.java)
 * Baekjoon 2609 [최대공약수와 최소공배수](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_2609.java)
 * Baekjoon 9613 [GCD합](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_9613.java)
+* Baekjoon 10872 [팩토리얼](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_10872.java)
+* Baekjoon 11653 [소인수분해](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_11653.java)
+* Baekjoon 1212 [8진수 2진수](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_1212.java)
+* Baekjoon 1373 [2진수 8진수](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_1373.java)
+* Baekjoon 1676 [팩토리얼 0의 개수](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_1676.java)
+* Baekjoon 1929 [소수 구하기](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_1929.java)
+* Baekjoon 1978 [소수 찾기](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_1978.java)
+* Baekjoon 2004 [조합 0의 개수](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_2004.java)
+* Baekjoon 9613 [골드바흐의 추측](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_6588.java)
+* Baekjoon 2089 [-2진수](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_2089.java)
+* Baekjoon 11576 [Base conversion](https://github.com/skhucode/skhucode-yeji/blob/master/math/Code_11576.java)
+
+## Graph
+* Baekjoon 10451 [순열사이클](https://github.com/skhucode/skhucode-yeji/blob/master/graph/Code_10451.java)
+* Baekjoon 11724 [연결요소의개수](https://github.com/skhucode/skhucode-yeji/blob/master/graph/Code_11724.java)
+* Baekjoon 1260 [DFS와BFS](https://github.com/skhucode/skhucode-yeji/blob/master/graph/Code_1260.java) 
+* Baekjoon 1707 [이분그래프](https://github.com/skhucode/skhucode-yeji/blob/master/graph/Code_1707.java)
+* Baekjoon 2331 [반복수열](https://github.com/skhucode/skhucode-yeji/blob/master/graph/Code_2331.java)
+* Baekjoon 2667 [단지번호붙이기](https://github.com/skhucode/skhucode-yeji/blob/master/graph/Code_2667.java)
+* Baekjoon 4963 [섬의개수](https://github.com/skhucode/skhucode-yeji/blob/master/graph/Code_4963.java)
+* Baekjoon 9466 텀 프로젝트
+* Baekjoon 2178 [미로 탐색](https://github.com/skhucode/skhucode-yeji/blob/master/graph/Code_2178.java)
+* Baekjoon 7576 토마토
+* Baekjoon 2146 다리 만들기
+
+## Tree
+* Baekjoon 1967 트리의 지름
+* Baekjoon 11725 [트리의 부모 찾기](https://github.com/skhucode/skhucode-yeji/blob/master/tree/Code_11725.java)
+* Baekjoon 1991 [트리 순회](https://github.com/skhucode/skhucode-yeji/blob/master/tree/Code_1991.java)
