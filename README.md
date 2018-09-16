@@ -139,7 +139,7 @@
 ## Greedy
 * Baekjoon 11047 [동전0](https://github.com/yjll1019/skhucode-yeji/blob/master/greedy/Code_11047.java)
 * Baekjoon 11399 [ATM](https://github.com/yjll1019/skhucode-yeji/blob/master/greedy/Code_11399.java)
-* Baekjoon 1541
+* Baekjoon 1541 잃어버린 
 * Baekjoon 1744 [수 묶기](https://github.com/yjll1019/skhucode-yeji/blob/master/greedy/Code_1744.java)
 * Baekjoon 1931 [회의실배정](https://github.com/yjll1019/skhucode-yeji/blob/master/greedy/Code_1931.java)
 * Baekjoon 2875 [대회or인턴](https://github.com/yjll1019/skhucode-yeji/blob/master/greedy/Code_2875.java)
